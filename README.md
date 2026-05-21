@@ -14,16 +14,6 @@ A Canva app for generating vintage-style gradients with built-in film grain. Dro
 - **Per-spot opacity** and **blend modes** (Normal / Multiply / Screen / Overlay)
 - Aspect ratios: 1:1, 16:9, 9:16, 4:5 — with optional **2x export** for sharper output
 
-## App support and links
-
-These are the URLs to use in the Canva developer portal:
-
-- **Terms and conditions:** `https://github.com/MindFabric/vintage-gradient#terms-and-conditions`
-- **Privacy policy:** `https://github.com/MindFabric/vintage-gradient#privacy-policy`
-- **Support:** `https://github.com/MindFabric/vintage-gradient#support`
-
----
-
 ## Terms and conditions
 
 _Last updated: 2026-05-20_
